@@ -22,3 +22,19 @@
 .newBookDiv {
     align-items: center;
 }
+ul
+{
+    list-style-type: none;
+    align-items: center;
+    justify-items: center;
+
+}
+li
+{
+    border: 3px solid black;
+    margin: 30px;
+    display: flex;
+    gap: 5px;
+    
+   
+}
